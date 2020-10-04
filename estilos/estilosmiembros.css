@@ -103,23 +103,26 @@ header nav .activo {
     border-bottom-style: solid;
     border-width: 1px;
 }
-.integrantes .contenedor .guanaco {
-    text-align: left;
-    border-bottom-style: solid;
-    border-width: 1px;
-}
+
 .integrantes .contenedor .iker {
-    text-align: right;
+    text-align: left;
     border-bottom-style: solid;
     border-width: 1px;
 }
 .integrantes .contenedor .pokelol {
-    text-align: left;
+    text-align: right;
     border-bottom-style: solid;
     border-width: 1px;
 }
 .integrantes .contenedor .darkpere {
+    text-align: left;
+    border-bottom-style: solid;
+    border-width: 1px;
+}
+.integrantes .contenedor .zororin {
     text-align: right;
+    border-bottom-style: solid;
+    border-width: 1px;
 }
 .integrantes .contenedor div p {
     font-size:1.4vw;
